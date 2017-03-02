@@ -1,4 +1,4 @@
-### elcinema-sso
+### discourse-sso
 
 This plugin provides remotely sso login functionality to Discourse. When users login
 the main website.
