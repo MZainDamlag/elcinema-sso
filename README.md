@@ -6,7 +6,7 @@ the main website.
 ## Installation
 
 Follow our [Install a Plugin](https://meta.discourse.org/t/install-a-plugin/19157) howto, using
-`git clone https://github.com/MZainDamlag/elcinema-sso.git` as the plugin command.
+`git clone https://github.com/MZainDamlag/discourse-sso.git` as the plugin command.
 
 Once you've installed it, review the settings under admin and then enable
 `remote_sso_enabled`.
